@@ -1,4 +1,4 @@
-- 👋 Hi, My name is Mahdi (@mahdi4097)
+- 👋 Hi, my name is Mahdi (@mahdi4097)
 - 🏢 I have been working in audit organization since 2001
 - 👀 I am interested in Python and data science, and I want to use them in auditing. 
 - 🌱 I’m currently learning Python.
